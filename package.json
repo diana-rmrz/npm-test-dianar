@@ -1,0 +1,19 @@
+{
+  "name": "npm-test-dianar",
+  "version": "1.0.0",
+  "description": "Este es el ejercicio donde se da de alta un nuevo paquete npm segun el curso de NodeJS de edu.codigoiot.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diana-rmrz/npm-test-dianar.git"
+  },
+  "author": "Diana Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diana-rmrz/npm-test-dianar/issues"
+  },
+  "homepage": "https://github.com/diana-rmrz/npm-test-dianar#readme"
+}
